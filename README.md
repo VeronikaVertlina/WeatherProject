@@ -1,4 +1,4 @@
-#Weather Project
+# Weather Project
 
 We've going to learn all aspects of Weather API in use, including:
 
